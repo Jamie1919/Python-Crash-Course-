@@ -15,3 +15,6 @@ print(message)
 famous_person = "Joker"
 message = 'Joker once said, "The only sensible way to live in this world is without rules."'
 
+first_name = 'John'
+first_name.rstrip()
+'John'
